@@ -1,0 +1,33 @@
+@font-face {
+    font-family: '';
+    src: url('NanumMyeongjoOTF00.eot');
+    src: url('NanumMyeongjoOTF00.eot?#iefix') format('embedded-opentype'),
+        url('NanumMyeongjoOTF00.woff2') format('woff2'),
+        url('NanumMyeongjoOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NanumMyeongjoOTFExtraBold00.eot');
+    src: url('NanumMyeongjoOTFExtraBold00.eot?#iefix') format('embedded-opentype'),
+        url('NanumMyeongjoOTFExtraBold00.woff2') format('woff2'),
+        url('NanumMyeongjoOTFExtraBold00.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '';
+    src: url('NanumMyeongjoOTFBold00.eot');
+    src: url('NanumMyeongjoOTFBold00.eot?#iefix') format('embedded-opentype'),
+        url('NanumMyeongjoOTFBold00.woff2') format('woff2'),
+        url('NanumMyeongjoOTFBold00.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
